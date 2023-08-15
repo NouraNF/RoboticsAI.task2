@@ -53,8 +53,8 @@ source ~/.bashrc
 roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 ```
 3. Launch the teleoperation node:
-   ```
+```
 roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
-   ```
+```
 
 ![258571015-34573417-c34c-4754-a209-c962c67db0ac](https://github.com/NouraNF/RoboticsAI.task2/assets/96024712/4607f9dd-1a36-49e2-b8aa-25ab91f74516)
